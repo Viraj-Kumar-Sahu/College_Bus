@@ -232,16 +232,3 @@ To add features:
 - ✅ Documentation complete
 
 **Ready to use! Just follow [START_HERE.md](START_HERE.md)** 🎉
-
----
-
-## 📄 License
-
-This project is for educational purposes.
-
----
-
-**Made with ❤️ using FastAPI + React + MySQL**
-
-**🚀 Get Started: Double-click `start-servers.bat` and open http://localhost:5173**
-
