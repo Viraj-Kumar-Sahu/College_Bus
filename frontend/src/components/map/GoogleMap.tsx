@@ -42,7 +42,7 @@ const GoogleMap = ({
     }
 
     const script = document.createElement('script');
-    script.src = `https://maps.googleapis.com/maps/api/js?key=AIzaSyDEdWtiwFVmtfxw0W40FSoZTmTRWSDL3Zk&libraries=geometry`;
+    script.src = `https://maps.googleapis.com/maps/api/js?key="" &libraries=geometry`;
     script.async = true;
     script.defer = true;
     script.onload = () => setIsLoaded(true);
